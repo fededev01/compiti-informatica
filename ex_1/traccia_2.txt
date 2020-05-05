@@ -1,0 +1,4 @@
+Costruire la pagina Libri.html
+La testa della pagina deve contenere il titolo "Primo Esercizio".
+Il corpo della pagina deve riprodurre il contenuto formattato come mostrato in allegato; in particolare la parola colossal
+è un collegato ipertestuale che deve aprire una nuova pagina e collegare all'indirizzo "https://it.wikipedia.org/wiki/Colossal".
